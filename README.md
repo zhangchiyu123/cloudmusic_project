@@ -29,6 +29,7 @@ npm run lint
 
 安装：
 $ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+
 $ npm install
 
 运行：
