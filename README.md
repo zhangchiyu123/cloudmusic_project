@@ -1,16 +1,16 @@
-# cloudmusic_project
+# 网易云音乐WEB项目
 
-## Project setup
+## 下载依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
