@@ -6,7 +6,7 @@
     "moduleResolution": "node",
     "paths": {
       "@/*": [
-        "src/*"
+        "src/*" //配置别名@提示，代表的是src文件夹
       ]
     },
     "lib": [
